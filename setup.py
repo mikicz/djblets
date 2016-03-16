@@ -1,4 +1,4 @@
--#!/usr/bin/env python
+#!/usr/bin/env python
 #
 # setup.py -- Installation for djblets
 #
