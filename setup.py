@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+-#!/usr/bin/env python
 #
 # setup.py -- Installation for djblets
 #
@@ -62,7 +62,7 @@ setup(name=PACKAGE_NAME,
       install_requires=[
           'Django>=1.3.7,<1.4',
           'feedparser>=5.1.2',
-          'PIL'
+          'Pillow'
       ],
       dependency_links = [
           "http://downloads.reviewboard.org/mirror/",
